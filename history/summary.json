@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.onnlione.com.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "3.26%",
+    "uptime": "3.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.24%",
-    "uptimeYear": "3.57%",
-    "time": 1218,
-    "timeDay": 684,
-    "timeWeek": 743,
-    "timeMonth": 1218,
-    "timeYear": 1218,
+    "uptimeMonth": "47.54%",
+    "uptimeYear": "3.85%",
+    "time": 1207,
+    "timeDay": 747,
+    "timeWeek": 727,
+    "timeMonth": 1207,
+    "timeYear": 1207,
     "dailyMinutesDown": {
       "2023-06-28": 80,
       "2023-06-26": 21,
@@ -370,8 +370,7 @@
       "2022-07-11": 1440,
       "2022-07-10": 1440,
       "2022-07-09": 1440,
-      "2022-07-08": 1440,
-      "2022-07-07": 1440
+      "2022-07-08": 1440
     }
   },
   {
@@ -391,7 +390,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-06": 87,
+      "2023-07-07": 96,
+      "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -754,8 +754,7 @@
       "2022-07-11": 1440,
       "2022-07-10": 1440,
       "2022-07-09": 1440,
-      "2022-07-08": 1440,
-      "2022-07-07": 1440
+      "2022-07-08": 1440
     }
   },
   {
@@ -775,7 +774,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-06": 87,
+      "2023-07-07": 96,
+      "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -1138,8 +1138,7 @@
       "2022-07-11": 1440,
       "2022-07-10": 1440,
       "2022-07-09": 1440,
-      "2022-07-08": 1440,
-      "2022-07-07": 1440
+      "2022-07-08": 1440
     }
   },
   {
@@ -1148,18 +1147,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/share.onn.li.ico",
     "slug": "share",
     "status": "down",
-    "uptime": "83.99%",
+    "uptime": "83.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "90.15%",
+    "uptimeYear": "89.88%",
     "time": 182,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2023-07-06": 87,
+      "2023-07-07": 96,
+      "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -1204,18 +1204,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/drop.onn.li.ico",
     "slug": "drop",
     "status": "down",
-    "uptime": "83.96%",
+    "uptime": "83.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "90.15%",
+    "uptimeYear": "89.88%",
     "time": 187,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2023-07-06": 87,
+      "2023-07-07": 96,
+      "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
